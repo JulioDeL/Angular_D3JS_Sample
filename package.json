@@ -1,0 +1,26 @@
+{
+  "name": "d3js-hearthstone",
+  "version": "1.0.0",
+  "description": "Simple app showing how to integrate AngularJs with D3JS. It consumes a public API and plot a D3 chart using Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioDeL/MEAN_Stack_example.git"
+  },
+  "author": "Julio de la Vega Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioDeL/MEAN_Stack_example/issues"
+  },
+  "homepage": "https://github.com/JulioDeL/MEAN_Stack_example#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4"
+  }
+}
